@@ -31,7 +31,7 @@ public class Hmw1 {
                 System.out.println("Sunday");
                 break;
             default:
-                System.out.println("Not a valdi number");
+                System.out.println("Not a valid number");
                 break;
 
         }
