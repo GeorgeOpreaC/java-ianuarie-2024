@@ -1,8 +1,9 @@
 package Homework11;
 //Tema-11👏
-//-Create a Java program where you define an integer variable with a value between 1 and 7. Use a switch statement to print the name of the corresponding day of the week. For example, if the variable has a value of 1, it should print "Monday".
-//-Create a Java program that uses a while loop to find the sum of numbers from 1 to n, where n is a positive integer entered by the user.
-//-Create a Java program that uses a do-while loop to print numbers from 10 to 1 in descending order.
+
+//-Create a Java program that uses a while loop to find the sum of numbers from 1 to n,
+// where n is a positive integer entered by the user.
+
 
 
 import java.util.Scanner;

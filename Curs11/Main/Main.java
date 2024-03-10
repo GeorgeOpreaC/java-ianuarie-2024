@@ -21,9 +21,7 @@ public class Main {
         System.out.println(lalea.getNumarPetale());
 
 
-        String variabila2= variabilaAnimal + "String nou";
-        String obiectString=" ";
-                StringBuilder variabilaStringBuilder= new StringBuilder("acolade");
+
     }
 
 
